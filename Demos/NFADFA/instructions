@@ -1,0 +1,4 @@
+In the nfa.txt file, you must put the highest state number first.
+Then on the subsequent lines
+state char state state ....
+

@@ -1,0 +1,30 @@
+Script started on Fri 15 Sep 2017 10:37:08 PM PDT
+]0;cruz076@empress:~/cs421/CS421Progs/HW1BFiles[cruz076@empress HW1BFiles]$ g++ recognize[K[K[K[Knizer.cppp[K
+]0;cruz076@empress:~/cs421/CS421Progs/HW1BFiles[cruz076@empress HW1BFiles]$ ./a.out
+
+Enter a binary number: 0
+YES IN L
+]0;cruz076@empress:~/cs421/CS421Progs/HW1BFiles[cruz076@empress HW1BFiles]$ ./a.out
+
+Enter a binary number: 1
+YES IN L
+]0;cruz076@empress:~/cs421/CS421Progs/HW1BFiles[cruz076@empress HW1BFiles]$ ./a.out
+
+Enter a binary number: 00110
+YES IN L
+]0;cruz076@empress:~/cs421/CS421Progs/HW1BFiles[cruz076@empress HW1BFiles]$ ./a.out
+
+Enter a binary number: 2
+NO NOT IN L
+]0;cruz076@empress:~/cs421/CS421Progs/HW1BFiles[cruz076@empress HW1BFiles]$ ./a.out
+
+Enter a binary number: 02
+NO NOT IN L
+]0;cruz076@empress:~/cs421/CS421Progs/HW1BFiles[cruz076@empress HW1BFiles]$ ./a.out
+
+Enter a binary number: 31
+NO NOT IN L
+]0;cruz076@empress:~/cs421/CS421Progs/HW1BFiles[cruz076@empress HW1BFiles]$ exit
+exit
+
+Script done on Fri 15 Sep 2017 10:38:32 PM PDT

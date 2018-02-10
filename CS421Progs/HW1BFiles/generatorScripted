@@ -1,0 +1,30 @@
+Script started on Fri 15 Sep 2017 10:41:58 PM PDT
+]0;cruz076@empress:~/cs421/CS421Progs/HW1BFiles[cruz076@empress HW1BFiles]$ exit[Kg+ [K+ generator.cpp queue.cpp
+]0;cruz076@empress:~/cs421/CS421Progs/HW1BFiles[cruz076@empress HW1BFiles]$ ./a.out
+0
+1
+00
+01
+10
+11
+000
+001
+010
+011
+100
+101
+110
+111
+0000
+0001
+0010
+0011
+0100
+0101
+0110
+0111
+Overflow! Cannot add anymore
+]0;cruz076@empress:~/cs421/CS421Progs/HW1BFiles[cruz076@empress HW1BFiles]$ exit
+exit
+
+Script done on Fri 15 Sep 2017 10:42:37 PM PDT

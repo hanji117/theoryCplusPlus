@@ -1,0 +1,38 @@
+Practice Problems from Rika
+
+You should be able to do these if you are in CS311
+
+Store these in separate files for later use:
+
+You may use only cin and cin.getline.
+Run the program by doing ./a.out < inputfilename
+
+1) write a program to read in a line at a time into a string
+- convert each alphabetic character to lower case and store into a string
+- display the line
+
+2) write a program to read in a line at a time into a string
+- extract out each word and display the word preceded by the counter
+e.g. 1 apple  2 berry
+
+3) write a program to read a character at a time
+read into a and b alternatively in struct x {char a; int b};
+
+4) write a program to find all combinations of letters in an array  
+(set of 1, set of 2, set of 3 etc.)
+
+5) write a program to find all permutations of letters in an array
+
+6) write a program to find the length of a sequence of numbers
+e.g.  1 2 3 4 7 9 = 4
+e.g.  3 5 6 6 7 8 = 4 (repeated numbers in a sequence are skipped) 
+
+Recall how to convert character digit into int digit. i.e. '1' to 1
+
+Make sure you know how to display things at a specific column
+   right justified (use setw)
+
+Recall which data structure allows breath first search
+ and which allows depth first.
+
+

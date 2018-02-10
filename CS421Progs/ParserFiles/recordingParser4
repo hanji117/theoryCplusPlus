@@ -1,0 +1,23 @@
+Script started on Thu 14 Dec 2017 10:17:21 PM PST
+]0;cruz085@empress:~/cs421/CS421Progs/ParserFiles[cruz085@empress ParserFiles]$ ex./a.oug++ parser.cpp
+]0;cruz085@empress:~/cs421/CS421Progs/ParserFiles[cruz085@empress ParserFiles]$ g++ parser.cexit./a.out
+Please enter a file name: partBtest4
+Processing Story
+
+
+========Processing <s>========
+Scanner was called.....
+Processing <noun>
+Matched PRONOUN
+Scanner was called.....
+Matched SUBJECT
+Processing <X>
+Scanner was called.....
+Processing <noun>
+Matched WORD1
+Processing <Y>
+Scanner was called.....
+SYNTAX ERROR: unexpected mashita found in afterNoun]0;cruz085@empress:~/cs421/CS421Progs/ParserFiles[cruz085@empress ParserFiles]$ exit
+exit
+
+Script done on Thu 14 Dec 2017 10:17:59 PM PST

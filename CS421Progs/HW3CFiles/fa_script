@@ -1,0 +1,198 @@
+Script started on Fri 13 Oct 2017 07:56:54 PM PDT
+]0;cruz085@empress:~/cs421/CS421Progs/HW3CFiles[cruz085@empress HW3CFiles]$ g++ fa.cpp
+]0;cruz085@empress:~/cs421/CS421Progs/HW3CFiles[cruz085@empress HW3CFiles]$ ./a.out
+.....Scanner was called...
+Word is:ab_2a
+Trying the identifier machine...
+current state: 0
+character: a
+current state: 1
+character: b
+current state: 1
+character: _
+current state: 1
+character: 2
+current state: 1
+character: a
+Type is:IDENT
+.....Scanner was called...
+Word is:.23
+Trying the identifier machine...
+current state: 0
+character: .
+I am stuck in state 0
+Trying the real machine...
+current state: 0
+character: .
+current state: 1
+character: 2
+current state: 2
+character: 3
+Type is:REAL
+.....Scanner was called...
+Word is:23.3
+Trying the identifier machine...
+current state: 0
+character: 2
+I am stuck in state 0
+Trying the real machine...
+current state: 0
+character: 2
+current state: 0
+character: 3
+current state: 0
+character: .
+current state: 1
+character: 3
+Type is:REAL
+.....Scanner was called...
+Word is:23
+Trying the identifier machine...
+current state: 0
+character: 2
+I am stuck in state 0
+Trying the real machine...
+current state: 0
+character: 2
+current state: 0
+character: 3
+Trying the integer machine...
+current state: 0
+character: 2
+current state: 1
+character: 3
+Type is:INT
+.....Scanner was called...
+Word is:ab&c
+Trying the identifier machine...
+current state: 0
+character: a
+current state: 1
+character: b
+current state: 1
+character: &
+I am stuck in state 1
+Trying the real machine...
+current state: 0
+character: a
+I am stuck in state 0
+Trying the integer machine...
+current state: 0
+character: a
+I am stuck in state 0
+Lexical Error: The string is not in my language
+Type is:ERROR
+.....Scanner was called...
+Word is:23.6
+Trying the identifier machine...
+current state: 0
+character: 2
+I am stuck in state 0
+Trying the real machine...
+current state: 0
+character: 2
+current state: 0
+character: 3
+current state: 0
+character: .
+current state: 1
+character: 6
+I am stuck in state 1
+Trying the integer machine...
+current state: 0
+character: 2
+current state: 1
+character: 3
+current state: 1
+character: .
+I am stuck in state 1
+Lexical Error: The string is not in my language
+Type is:ERROR
+.....Scanner was called...
+Word is:2a3
+Trying the identifier machine...
+current state: 0
+character: 2
+I am stuck in state 0
+Trying the real machine...
+current state: 0
+character: 2
+current state: 0
+character: a
+I am stuck in state 0
+Trying the integer machine...
+current state: 0
+character: 2
+current state: 1
+character: a
+I am stuck in state 1
+Lexical Error: The string is not in my language
+Type is:ERROR
+.....Scanner was called...
+Word is:22..2
+Trying the identifier machine...
+current state: 0
+character: 2
+I am stuck in state 0
+Trying the real machine...
+current state: 0
+character: 2
+current state: 0
+character: 2
+current state: 0
+character: .
+current state: 1
+character: .
+I am stuck in state 1
+Trying the integer machine...
+current state: 0
+character: 2
+current state: 1
+character: 2
+current state: 1
+character: .
+I am stuck in state 1
+Lexical Error: The string is not in my language
+Type is:ERROR
+.....Scanner was called...
+Word is:23.
+Trying the identifier machine...
+current state: 0
+character: 2
+I am stuck in state 0
+Trying the real machine...
+current state: 0
+character: 2
+current state: 0
+character: 3
+current state: 0
+character: .
+Trying the integer machine...
+current state: 0
+character: 2
+current state: 1
+character: 3
+current state: 1
+character: .
+I am stuck in state 1
+Lexical Error: The string is not in my language
+Type is:ERROR
+.....Scanner was called...
+Word is:EOF
+Trying the identifier machine...
+current state: 0
+character: E
+I am stuck in state 0
+Trying the real machine...
+current state: 0
+character: E
+I am stuck in state 0
+Trying the integer machine...
+current state: 0
+character: E
+I am stuck in state 0
+Lexical Error: The string is not in my language
+]0;cruz085@empress:~/cs421/CS421Progs/HW3CFiles[cruz085@empress HW3CFiles]$ exit
+exit
+
+Script done on Fri 13 Oct 2017 07:57:26 PM PDT

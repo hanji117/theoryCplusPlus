@@ -1,0 +1,29 @@
+Script started on Thu 14 Dec 2017 10:14:27 PM PST
+]0;cruz085@empress:~/cs421/CS421Progs/ParserFiles[cruz085@empress ParserFiles]$ ex./a.oug++ parser.cpp
+]0;cruz085@empress:~/cs421/CS421Progs/ParserFiles[cruz085@empress ParserFiles]$ g++ parser.cexit./a.oug++ parser.c[7P./a.out
+Please enter a file name: partBtest2
+Processing Story
+
+
+========Processing <s>========
+Scanner was called.....
+Matched CONNECTOR
+Processing <noun>
+Scanner was called.....
+Matched PRONOUN
+Scanner was called.....
+Matched SUBJECT
+Processing <X>
+Scanner was called.....
+Processing <noun>
+Matched WORD1
+Processing <Y>
+Scanner was called.....
+Processing <be>
+Matched IS
+Scanner was called.....
+SYNTAX ERROR: expected PERIOD but found ne
+]0;cruz085@empress:~/cs421/CS421Progs/ParserFiles[cruz085@empress ParserFiles]$ exit
+exit
+
+Script done on Thu 14 Dec 2017 10:15:17 PM PST

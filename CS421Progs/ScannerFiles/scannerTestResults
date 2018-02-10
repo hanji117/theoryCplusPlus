@@ -1,0 +1,296 @@
+Script started on Thu 14 Dec 2017 02:13:59 PM PST
+]0;cruz085@empress:~/cs421/CS421Progs/ScannerFiles[cruz085@empress ScannerFiles]$ logouts[Kogout[1Pclearemacs test1resultsranslator.cpp[2Pest1resultsranslator.cpp[2Pest1resultsls[Kclearemacs translator.cppls[Kemacs translator.cppclear[K[3Plsemacs test1resultsranslator.cpp[2Pest1resultsranslator.cpp[2Pest1resultsclear[Klogouts[Kogout[Kg++ scanner.cpp
+]0;cruz085@empress:~/cs421/CS421Progs/ScannerFiles[cruz085@empress ScannerFiles]$ ./a.out
+Enter scannertest1 or scannertest2: scannertest1
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: rika Token type is: WORD1
+
+Word is: desu Token type is: IS
+
+Word is: . Token type is: PERIOD
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: sensei Token type is: WORD1
+
+Word is: desu Token type is: IS
+
+Word is: . Token type is: PERIOD
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: ryouri Token type is: WORD1
+
+Word is: o Token type is: OBJECT
+
+Word is: yarI Token type is: WORD2
+
+Word is: masu Token type is: VERB
+
+Word is: . Token type is: PERIOD
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: gohan Token type is: WORD1
+
+Word is: o Token type is: OBJECT
+
+Word is: seito Token type is: WORD1
+
+Word is: ni Token type is: DESTINATION
+
+Word is: agE Token type is: WORD2
+
+Word is: mashita Token type is: VERBPAST
+
+Word is: . Token type is: PERIOD
+
+Word is: shikashi Token type is: CONNECTOR
+
+Word is: seito Token type is: WORD1
+
+Word is: wa Token type is: SUBJECT
+
+Word is: yorokobI Token type is: WORD2
+
+Word is: masendeshita Token type is: VERBPASTNEG
+
+Word is: . Token type is: PERIOD
+
+Word is: dakara Token type is: CONNECTOR
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: kanashii Token type is: WORD1
+
+Word is: deshita Token type is: WAS
+
+Word is: . Token type is: PERIOD
+
+Word is: soshite Token type is: CONNECTOR
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: toire Token type is: WORD1
+
+Word is: ni Token type is: DESTINATION
+
+Word is: ikI Token type is: WORD2
+
+Word is: mashita Token type is: VERBPAST
+
+Word is: . Token type is: PERIOD
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: nakI Token type is: WORD2
+
+Word is: mashita Token type is: VERBPAST
+
+Word is: . Token type is: PERIOD
+
+]0;cruz085@empress:~/cs421/CS421Progs/ScannerFiles[cruz085@empress ScannerFiles]$ ./a.out
+Enter scannertest1 or scannertest2: scannertest2            ^[[A    scannertest2
+Word is: daigaku Token type is: WORD1
+
+Lexical Error: college is not a valid token
+Word is: college Token type is: ERROR
+
+Word is: kurasu Token type is: WORD1
+
+Lexical Error: class is not a valid token
+Word is: class Token type is: ERROR
+
+Word is: hon Token type is: WORD1
+
+Lexical Error: book is not a valid token
+Word is: book Token type is: ERROR
+
+Word is: tesuto Token type is: WORD1
+
+Lexical Error: test is not a valid token
+Word is: test Token type is: ERROR
+
+Word is: ie Token type is: WORD1
+
+Lexical Error: home* is not a valid token
+Word is: home* Token type is: ERROR
+
+Word is: isu Token type is: WORD1
+
+Lexical Error: chair is not a valid token
+Word is: chair Token type is: ERROR
+
+Word is: seito Token type is: WORD1
+
+Lexical Error: student is not a valid token
+Word is: student Token type is: ERROR
+
+Word is: sensei Token type is: WORD1
+
+Lexical Error: teacher is not a valid token
+Word is: teacher Token type is: ERROR
+
+Word is: tomodachi Token type is: WORD1
+
+Lexical Error: friend is not a valid token
+Word is: friend Token type is: ERROR
+
+Word is: jidoosha Token type is: WORD1
+
+Lexical Error: car is not a valid token
+Word is: car Token type is: ERROR
+
+Word is: gyuunyuu Token type is: WORD1
+
+Lexical Error: milk is not a valid token
+Word is: milk Token type is: ERROR
+
+Word is: sukiyaki Token type is: WORD1
+
+Word is: tenpura Token type is: WORD1
+
+Word is: sushi Token type is: WORD1
+
+Word is: biiru Token type is: WORD1
+
+Lexical Error: beer is not a valid token
+Word is: beer Token type is: ERROR
+
+Word is: sake Token type is: WORD1
+
+Word is: tokyo Token type is: WORD1
+
+Word is: kyuushuu Token type is: WORD1
+
+Lexical Error: Osaka is not a valid token
+Word is: Osaka Token type is: ERROR
+
+Word is: choucho Token type is: WORD1
+
+Lexical Error: butterfly is not a valid token
+Word is: butterfly Token type is: ERROR
+
+Word is: an Token type is: WORD1
+
+Word is: idea Token type is: WORD1
+
+Word is: yasashii Token type is: WORD1
+
+Lexical Error: easy is not a valid token
+Word is: easy Token type is: ERROR
+
+Word is: muzukashii Token type is: WORD1
+
+Lexical Error: difficult is not a valid token
+Word is: difficult Token type is: ERROR
+
+Word is: ureshii Token type is: WORD1
+
+Lexical Error: pleased is not a valid token
+Word is: pleased Token type is: ERROR
+
+Word is: shiawase Token type is: WORD1
+
+Lexical Error: happy is not a valid token
+Word is: happy Token type is: ERROR
+
+Word is: kanashii Token type is: WORD1
+
+Lexical Error: sad is not a valid token
+Word is: sad Token type is: ERROR
+
+Word is: omoi Token type is: WORD1
+
+Lexical Error: heavy is not a valid token
+Word is: heavy Token type is: ERROR
+
+Word is: oishii Token type is: WORD1
+
+Lexical Error: delicious is not a valid token
+Word is: delicious Token type is: ERROR
+
+Word is: tennen Token type is: WORD1
+
+Lexical Error: natural is not a valid token
+Word is: natural Token type is: ERROR
+
+Word is: nakI Token type is: WORD2
+
+Lexical Error: cry is not a valid token
+Word is: cry Token type is: ERROR
+
+Word is: ikI Token type is: WORD2
+
+Lexical Error: go* is not a valid token
+Word is: go* Token type is: ERROR
+
+Word is: tabE Token type is: WORD2
+
+Lexical Error: eat is not a valid token
+Word is: eat Token type is: ERROR
+
+Word is: ukE Token type is: WORD2
+
+Lexical Error: take* is not a valid token
+Word is: take* Token type is: ERROR
+
+Word is: kakI Token type is: WORD2
+
+Lexical Error: write is not a valid token
+Word is: write Token type is: ERROR
+
+Word is: yomI Token type is: WORD2
+
+Lexical Error: read is not a valid token
+Word is: read Token type is: ERROR
+
+Word is: nomI Token type is: WORD2
+
+Lexical Error: drink is not a valid token
+Word is: drink Token type is: ERROR
+
+Word is: agE Token type is: WORD2
+
+Lexical Error: give is not a valid token
+Word is: give Token type is: ERROR
+
+Word is: moraI Token type is: WORD2
+
+Lexical Error: receive is not a valid token
+Word is: receive Token type is: ERROR
+
+Word is: butsI Token type is: WORD2
+
+Lexical Error: hit is not a valid token
+Word is: hit Token type is: ERROR
+
+Word is: kerI Token type is: WORD2
+
+Lexical Error: kick is not a valid token
+Word is: kick Token type is: ERROR
+
+Word is: shaberI Token type is: WORD2
+
+Lexical Error: talk is not a valid token
+Word is: talk Token type is: ERROR
+
+]0;cruz085@empress:~/cs421/CS421Progs/ScannerFiles[cruz085@empress ScannerFiles]$ exit
+exit
+
+Script done on Thu 14 Dec 2017 02:16:07 PM PST

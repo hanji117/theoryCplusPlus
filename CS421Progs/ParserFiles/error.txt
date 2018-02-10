@@ -1,0 +1,2 @@
+Lexical error: apple is not a valid token
+SYNTAX ERROR: unexpected apple found in noun

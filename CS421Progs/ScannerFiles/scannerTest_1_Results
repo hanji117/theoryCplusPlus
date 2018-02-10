@@ -1,0 +1,110 @@
+Script started on Thu 14 Dec 2017 02:20:38 PM PST
+]0;cruz085@empress:~/cs421/CS421Progs/ScannerFiles[cruz085@empress ScannerFiles]$ exit./a.outg++ scanner.cpp
+]0;cruz085@empress:~/cs421/CS421Progs/ScannerFiles[cruz085@empress ScannerFiles]$ g++ scanner.cppexit[K./a.out
+Enter scannertest1 or scannertest2: scannertest1
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: rika Token type is: WORD1
+
+Word is: desu Token type is: IS
+
+Word is: . Token type is: PERIOD
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: sensei Token type is: WORD1
+
+Word is: desu Token type is: IS
+
+Word is: . Token type is: PERIOD
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: ryouri Token type is: WORD1
+
+Word is: o Token type is: OBJECT
+
+Word is: yarI Token type is: WORD2
+
+Word is: masu Token type is: VERB
+
+Word is: . Token type is: PERIOD
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: gohan Token type is: WORD1
+
+Word is: o Token type is: OBJECT
+
+Word is: seito Token type is: WORD1
+
+Word is: ni Token type is: DESTINATION
+
+Word is: agE Token type is: WORD2
+
+Word is: mashita Token type is: VERBPAST
+
+Word is: . Token type is: PERIOD
+
+Word is: shikashi Token type is: CONNECTOR
+
+Word is: seito Token type is: WORD1
+
+Word is: wa Token type is: SUBJECT
+
+Word is: yorokobI Token type is: WORD2
+
+Word is: masendeshita Token type is: VERBPASTNEG
+
+Word is: . Token type is: PERIOD
+
+Word is: dakara Token type is: CONNECTOR
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: kanashii Token type is: WORD1
+
+Word is: deshita Token type is: WAS
+
+Word is: . Token type is: PERIOD
+
+Word is: soshite Token type is: CONNECTOR
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: toire Token type is: WORD1
+
+Word is: ni Token type is: DESTINATION
+
+Word is: ikI Token type is: WORD2
+
+Word is: mashita Token type is: VERBPAST
+
+Word is: . Token type is: PERIOD
+
+Word is: watashi Token type is: PRONOUN
+
+Word is: wa Token type is: SUBJECT
+
+Word is: nakI Token type is: WORD2
+
+Word is: mashita Token type is: VERBPAST
+
+Word is: . Token type is: PERIOD
+
+]0;cruz085@empress:~/cs421/CS421Progs/ScannerFiles[cruz085@empress ScannerFiles]$ exit
+exit
+
+Script done on Thu 14 Dec 2017 02:20:51 PM PST

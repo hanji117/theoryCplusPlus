@@ -1,0 +1,20 @@
+
+TO COMPILE:
+g++ <list cpp files only>   
+Never never compile .h files.
+
+TO RUN:
+./a.out
+
+TO RECORD TEST RESULTS:
+script <put a brand new file name here>
+
+compile here
+run here
+
+exit
+
+Download the created script file 
+
+Note that to use exit(1), you need to include <stdlib.h>
+
